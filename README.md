@@ -1,4 +1,8 @@
 # Prova 2 Desenvolvimento Web Avancado
+## Aluno:
+José Luiz Dantas Júnior
+## Professor:
+Otávio Lube
 ## Comandos Utilizados:
 * cd prova
 * npm init -y
